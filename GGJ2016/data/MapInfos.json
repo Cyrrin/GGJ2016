@@ -1,4 +1,6 @@
 [
 null,
-{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":809,"scrollY":445}
+{"id":1,"expanded":true,"name":"Debug Room","order":1,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":2,"expanded":true,"name":"Fortress Gates","order":2,"parentId":1,"scrollX":534,"scrollY":414.5},
+{"id":3,"expanded":false,"name":"Forest Approach","order":3,"parentId":1,"scrollX":534,"scrollY":547.5}
 ]
