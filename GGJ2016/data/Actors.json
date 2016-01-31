@@ -2,7 +2,7 @@
 null,
 {"id":1,"battlerName":"Actor1_3","characterIndex":2,"characterName":"Actor1","classId":2,"equips":[1,1,2,3,0],"faceIndex":2,"faceName":"Actor1","traits":[],"initialLevel":50,"maxLevel":50,"name":"Smusher","nickname":"","note":"","profile":""},
 {"id":2,"battlerName":"Actor2_5","characterIndex":4,"characterName":"Actor2","classId":3,"equips":[2,0,2,3,0],"faceIndex":4,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":1,"name":"Kastur","nickname":"","note":"","profile":""},
-{"id":3,"battlerName":"Actor1_5","characterIndex":4,"characterName":"Actor1","classId":1,"equips":[4,0,2,3,4],"faceIndex":4,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":1,"name":"Rohg","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Actor1_6","characterIndex":5,"characterName":"Actor1","classId":1,"equips":[4,0,2,3,4],"faceIndex":5,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":1,"name":"Rohg","nickname":"","note":"","profile":""},
 {"id":4,"battlerName":"Actor1_2","characterIndex":1,"characterName":"Actor1","classId":4,"equips":[3,0,2,3,4],"faceIndex":2,"faceName":"post-80160-0-18073400-1453071297","traits":[],"initialLevel":1,"maxLevel":1,"name":"Priesty","nickname":"","note":"","profile":""},
 {"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
 {"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
